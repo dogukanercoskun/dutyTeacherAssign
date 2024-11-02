@@ -1,5 +1,5 @@
 # dutyTeacherAssign
-Bu proje google-e tablolar üzerindeki verileri kullanarak okullarda nöbeçi öğretmen ders görevlendirmesi için yapılmış kod dizinidir.
+Bu proje google-e tablolar üzerindeki verileri kullanarak okullarda nöbeçi öğretmen ders görevlendirmesi için yapılmış kod dizinidir.Projenin kodlarının sorunsuz ve direk kullanmak için resimlerdeki e tabloları aynı isim ve düzende kurarak kullanabilirsiniz.
 
 <img width="1673" alt="Ekran Resmi 2024-11-02 11 06 26" src="https://github.com/user-attachments/assets/076ce1d2-eba0-4c0d-8ccb-f696e09cb799">
 <img width="1673" alt="Ekran Resmi 2024-11-02 11 05 49" src="https://github.com/user-attachments/assets/286d1ac3-7b81-41eb-a604-e1c01cb38ef1">
